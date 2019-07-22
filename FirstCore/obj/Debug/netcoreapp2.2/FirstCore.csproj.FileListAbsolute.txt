@@ -1,0 +1,11 @@
+D:\apps\Pluralsight\FirstCore\bin\Debug\netcoreapp2.2\FirstCore.deps.json
+D:\apps\Pluralsight\FirstCore\bin\Debug\netcoreapp2.2\FirstCore.runtimeconfig.json
+D:\apps\Pluralsight\FirstCore\bin\Debug\netcoreapp2.2\FirstCore.runtimeconfig.dev.json
+D:\apps\Pluralsight\FirstCore\bin\Debug\netcoreapp2.2\FirstCore.dll
+D:\apps\Pluralsight\FirstCore\bin\Debug\netcoreapp2.2\FirstCore.pdb
+D:\apps\Pluralsight\FirstCore\obj\Debug\netcoreapp2.2\FirstCore.csprojAssemblyReference.cache
+D:\apps\Pluralsight\FirstCore\obj\Debug\netcoreapp2.2\FirstCore.csproj.CoreCompileInputs.cache
+D:\apps\Pluralsight\FirstCore\obj\Debug\netcoreapp2.2\FirstCore.AssemblyInfoInputs.cache
+D:\apps\Pluralsight\FirstCore\obj\Debug\netcoreapp2.2\FirstCore.AssemblyInfo.cs
+D:\apps\Pluralsight\FirstCore\obj\Debug\netcoreapp2.2\FirstCore.dll
+D:\apps\Pluralsight\FirstCore\obj\Debug\netcoreapp2.2\FirstCore.pdb
