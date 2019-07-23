@@ -12,3 +12,17 @@ D:\apps\Pluralsight\NetCoreAngular\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.2
 D:\apps\Pluralsight\NetCoreAngular\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.2\DutchTreat.RazorTargetAssemblyInfo.cache
 D:\apps\Pluralsight\NetCoreAngular\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.2\DutchTreat.dll
 D:\apps\Pluralsight\NetCoreAngular\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.2\DutchTreat.pdb
+D:\Git Projects\NetCoreAngular\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.2\DutchTreat.deps.json
+D:\Git Projects\NetCoreAngular\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.2\DutchTreat.runtimeconfig.json
+D:\Git Projects\NetCoreAngular\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.2\DutchTreat.runtimeconfig.dev.json
+D:\Git Projects\NetCoreAngular\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.2\DutchTreat.dll
+D:\Git Projects\NetCoreAngular\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.2\DutchTreat.pdb
+D:\Git Projects\NetCoreAngular\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.2\DutchTreat.csprojAssemblyReference.cache
+D:\Git Projects\NetCoreAngular\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.2\DutchTreat.csproj.CoreCompileInputs.cache
+D:\Git Projects\NetCoreAngular\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.2\DutchTreat.RazorAssemblyInfo.cache
+D:\Git Projects\NetCoreAngular\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.2\DutchTreat.RazorAssemblyInfo.cs
+D:\Git Projects\NetCoreAngular\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.2\DutchTreat.AssemblyInfoInputs.cache
+D:\Git Projects\NetCoreAngular\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.2\DutchTreat.AssemblyInfo.cs
+D:\Git Projects\NetCoreAngular\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.2\DutchTreat.RazorTargetAssemblyInfo.cache
+D:\Git Projects\NetCoreAngular\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.2\DutchTreat.dll
+D:\Git Projects\NetCoreAngular\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.2\DutchTreat.pdb

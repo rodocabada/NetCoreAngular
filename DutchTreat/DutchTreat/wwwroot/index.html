@@ -3,6 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <title>Dutch Treat</title>
+    <link href="css/site.css" rel="stylesheet" />
 </head>
 <body>
     <h2>Dutch Treat</h2>
@@ -19,11 +20,23 @@
     </div>
 
     <form action="/" method="post">
-        <label>Username: </label>
-        <input name="inpUserName" value="" />
+        <label>Your Name: </label>
         <br />
-        <label>Password: </label>
-        <input type="password" name="inpPassword" value="" />
+        <input name="inpUserName" value=""/>
+        <br />
+        <label>Email: </label>
+        <br />
+        <input type="email" name="inpPassword" value="" />
+        <br />
+        <label>Subject: </label>
+        <br />
+        <input type="text" name="inpSubject" value="" />
+        <br />
+        <label>Message:</label>
+        <br />
+        <textarea rows="4"></textarea>
+        <br />
+        <input type="submit" name="inpSubmit" value="Send Message" />
     </form>
 </body>
 </html>
