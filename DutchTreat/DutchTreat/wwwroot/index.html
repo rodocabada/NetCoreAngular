@@ -7,36 +7,40 @@
 </head>
 <body>
     <h2>Dutch Treat</h2>
-    <div>
+    <div class="product-info">
         <img src="/img/VanGogh.jpg" />
         <h3>Mug</h3>
-        <ul>
+        <ul class="product-props">
             <li>Price: $9.99</li>
             <li>Artist: Van Gogh</li>
             <li>Title: </li>
             <li>Description: Self-portrait</li>
         </ul>
-        <button>Buy</button>
+        <button id="buyButton">Buy</button>
     </div>
 
-    <form action="/" method="post">
-        <label>Your Name: </label>
-        <br />
-        <input name="inpUserName" value=""/>
-        <br />
-        <label>Email: </label>
-        <br />
-        <input type="email" name="inpPassword" value="" />
-        <br />
-        <label>Subject: </label>
-        <br />
-        <input type="text" name="inpSubject" value="" />
-        <br />
-        <label>Message:</label>
-        <br />
-        <textarea rows="4"></textarea>
-        <br />
-        <input type="submit" name="inpSubmit" value="Send Message" />
-    </form>
+    <div id="theForm">
+        <form action="/" method="post">
+            <label>Your Name: </label>
+            <br />
+            <input name="inpUserName" value="" />
+            <br />
+            <label>Email: </label>
+            <br />
+            <input type="email" name="inpPassword" value="" />
+            <br />
+            <label>Subject: </label>
+            <br />
+            <input type="text" name="inpSubject" value="" />
+            <br />
+            <label>Message:</label>
+            <br />
+            <textarea rows="4"></textarea>
+            <br />
+            <input type="submit" name="inpSubmit" value="Send Message" />
+        </form>
+    </div>
+    <script src="/node_modules/jquery/dist/jquery.min.js"></script>
+    <script src="js/index.js"></script>
 </body>
 </html>
